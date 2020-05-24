@@ -1,0 +1,26 @@
+[
+  {
+    "name":"launch",
+    "description":"This plugin is used for quick jump to some folder or some web pages.",
+    "type":"python",
+    "pluginFuncs": [
+      {
+        "name": "Add link",
+        "description": "Add folder link",
+        "type": "python",
+        "commandPrefix": "python",
+        "commandFile": "xxx.py",
+        "commandParams": "${filePath}",
+        "pluginFuncFormEles": [
+          {
+            "labelName": "filePath",
+            "varName": "filePath",
+            "description": "The target folder path which you want to jump to.",
+            "type": "fileExplore",
+            "json": ""
+          }
+        ]
+      }
+    ]
+  }
+]

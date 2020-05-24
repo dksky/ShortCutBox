@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/home">
+    <file>image/bg.png</file>
+    <file>image/selected.png</file>
+    <file>image/add-smaller.png</file>
+    <file>image/back.png</file>
+    <file>image/item.png</file>
+    <file>image/favorite.png</file>
+    <file>image/add-small.png</file>
+    <file>image/plugins.png</file>
+    <file>image/folder-small.png</file>
+    <file>image/exe-small.png</file>
+    <file>image/home_State 1.png</file>
+  </qresource>
+</RCC>

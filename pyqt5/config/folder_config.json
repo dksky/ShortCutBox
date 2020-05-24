@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Desktop",
+        "command": "C:/Users/Sols/Desktop",
+        "args": ""
+    },
+    {
+        "text": "Captures",
+        "command": "C:/Users/Sols/Videos/Captures",
+        "args": ""
+    },
+    {
+        "text": "",
+        "command": "",
+        "args": ""
+    },
+    {
+        "text": "ui",
+        "command": "C:/Users/liden/PycharmProjects/pyGUI/pyqt5/ui",
+        "args": ""
+    }
+]

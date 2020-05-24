@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/home">
+    <file>image/home_State 1.png</file>
+    <file>image/exe.png</file>
+  </qresource>
+</RCC>

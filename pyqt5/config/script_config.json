@@ -1,0 +1,37 @@
+[
+    {
+        "text": "pudding 512GB plan check usage",
+        "command": "E:/localhost/virtualenv/selenium/autologinPudding.py",
+        "args": "512"
+    },
+    {
+        "text": "DockerToolbox-19.03.1.exe",
+        "command": "C:/Users/Sols/Downloads/DockerToolbox-19.03.1.exe",
+        "args": ""
+    },
+    {
+        "text": "dragAndDropExample.py",
+        "command": "E:/localhost/pyqt5/dragAndDropExample.py",
+        "args": ""
+    },
+    {
+        "text": "listViewDAD.py",
+        "command": "E:/localhost/pyqt5/listViewDAD.py",
+        "args": ""
+    },
+    {
+        "text": "ShortcutBoxApp.py",
+        "command": "C:/Users/liden/PycharmProjects/pyGUI/pyqt5/ShortcutBoxApp.py",
+        "args": ""
+    },
+    {
+        "text": "python.png",
+        "command": "C:/Users/liden/PycharmProjects/pyGUI/pyqt5/img/python.png",
+        "args": ""
+    },
+    {
+        "text": "",
+        "command": "",
+        "args": ""
+    }
+]
